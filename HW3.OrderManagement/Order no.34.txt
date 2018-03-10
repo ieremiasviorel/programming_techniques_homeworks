@@ -1,0 +1,15 @@
+Order no.34
+----------------------------------------
+Client
+Name            : Laura
+Address         : Baia Mare
+Phone           : 0552368931
+----------------------------------------
+Product
+Name            : Water
+Description     : Sparkly
+Unit Price      : 1.01
+----------------------------------------
+Ordered units   : 40
+----------------------------------------
+TOTAL           : 40

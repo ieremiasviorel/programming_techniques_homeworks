@@ -1,0 +1,15 @@
+Order no.30
+----------------------------------------
+Client
+Name            : Ioan
+Address         : Sebes
+Phone           : 0754321798
+----------------------------------------
+Product
+Name            : Oil
+Description     : Been faught for
+Unit Price      : 5.1
+----------------------------------------
+Ordered units   : 100
+----------------------------------------
+TOTAL           : 510

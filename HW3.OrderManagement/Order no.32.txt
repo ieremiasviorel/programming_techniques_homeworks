@@ -1,0 +1,15 @@
+Order no.32
+----------------------------------------
+Client
+Name            : Georgel
+Address         : Afumati
+Phone           : 1349538316
+----------------------------------------
+Product
+Name            : Beer
+Description     : Strong and bitter
+Unit Price      : 3.43
+----------------------------------------
+Ordered units   : 3
+----------------------------------------
+TOTAL           : 10

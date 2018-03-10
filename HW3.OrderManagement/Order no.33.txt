@@ -1,0 +1,15 @@
+Order no.33
+----------------------------------------
+Client
+Name            : Georgel
+Address         : Afumati
+Phone           : 1349538316
+----------------------------------------
+Product
+Name            : Milk
+Description     : Purest one
+Unit Price      : 3.0
+----------------------------------------
+Ordered units   : 13
+----------------------------------------
+TOTAL           : 39

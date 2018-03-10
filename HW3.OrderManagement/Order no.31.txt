@@ -1,0 +1,15 @@
+Order no.31
+----------------------------------------
+Client
+Name            : Viorel
+Address         : Baia Borsa
+Phone           : 0743246279
+----------------------------------------
+Product
+Name            : Wood
+Description     : Redwood forest
+Unit Price      : 0.1
+----------------------------------------
+Ordered units   : 2017
+----------------------------------------
+TOTAL           : 202
